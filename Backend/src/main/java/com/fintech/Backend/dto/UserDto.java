@@ -14,9 +14,9 @@ public class UserDto {
     private String fullName;
     private String email;
     private String role;
-    private String CardNumber;
-    private String ExpiryDate;
-    private String CVV;
-    private String AccountNumber;
-    private BigDecimal Balance;
+    private String cardNumber;
+    private String expiryDate;
+    private String cvv;
+    private String accountNumber;
+    private BigDecimal balance;
 }
