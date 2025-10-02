@@ -14,5 +14,5 @@ public class AddUserDto {
     private String expiryDate;
     private String cvv;
     private String accountNumber;
-    private BigDecimal balance= BigDecimal.ZERO;
+    private BigDecimal balance = BigDecimal.ZERO;
 }
